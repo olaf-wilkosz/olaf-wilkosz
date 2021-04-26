@@ -18,6 +18,7 @@ A web technologies enthusiast, taking his first steps into IT as Junior Web Deve
 <img alt="Socket.io" src="https://bestofjs.org/logos/socketio.svg" width="32" align="left">
 <img alt="MongoDB" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" width="32" align="left">
 <br>
+
 ---
 
 ### Tools
