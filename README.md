@@ -18,6 +18,7 @@ A web technologies enthusiast, taking his first steps into IT as Junior Web Deve
 <img alt="Socket.io" src="https://bestofjs.org/logos/socketio.svg" width="32" align="left">
 <img alt="MongoDB" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" width="32" align="left">
 <br>
+<br>
 
 ---
 
@@ -26,3 +27,11 @@ A web technologies enthusiast, taking his first steps into IT as Junior Web Deve
 <img alt="Visual Studio Code" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="32" align="left">
 <img alt="GitHub Desktop" src="https://img.informer.com/icons_mac/png/128/450/450394.png" width="32" align="left">
 <img alt="Postman" src="https://topcracked.com/wp-content/uploads/2019/06/56276.png" width="32" align="left">
+<br>
+<br>
+
+---
+
+### GitHub Stats
+
+[![Olaf's GitHub stats](https://github-readme-stats-olaf-wilkosz.vercel.app/api?username=olaf-wilkosz&show_icons=true&theme=dark)](https://github.com/olaf-wilkosz)
