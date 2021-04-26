@@ -36,5 +36,5 @@ A web technologies enthusiast, taking his first steps into IT as Junior Web Deve
 ### GitHub Stats
 
 [![Olaf's GitHub stats](https://github-readme-stats-olaf-wilkosz.vercel.app/api?username=olaf-wilkosz&show_icons=true&theme=react&title_color=58a6ff&icon_color=58a6ff&bg_color=0d1117&border_radius=10)](https://github.com/olaf-wilkosz)
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olaf-wilkosz)](https://github.com/olaf-wilkosz)
-[![Olaf's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=olaf-wilkosz)](https://github.com/olaf-wilkosz)
