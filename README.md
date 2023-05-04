@@ -1,5 +1,5 @@
 # Olaf Wilkosz
-## Junior Full Stack Developer
+## Front-End Developer
 
 A web technologies enthusiast, taking his first steps into IT as Junior Web Developer. Open to new challenges, with strong will to gather new experience in return of utilizing and continuously expanding freshly-acquired skills. With over 10 years of professional assistance in solving complex issues in international environment of the most demanding branches of tourism, highly motivated to switch into different field of industry and aim to gain practical expertise.
 
@@ -36,3 +36,5 @@ A web technologies enthusiast, taking his first steps into IT as Junior Web Deve
 ### GitHub Stats
 
 [![Olaf's GitHub stats](https://github-readme-stats-olaf-wilkosz.vercel.app/api?username=olaf-wilkosz&hide=issues&show_icons=true&theme=react&title_color=58a6ff&icon_color=58a6ff&bg_color=0d1117&border_radius=10)](https://github.com/olaf-wilkosz)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=olaf-wilkosz&theme=holi-theme&border_radius=12&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
